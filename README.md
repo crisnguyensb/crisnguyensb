@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Cris
 
-<!--
-**crisnguyensb/crisnguyensb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web platform engineer. I work on the front end that ShopBack members see, and
+lately on the tooling that lets AI coding agents do something useful with it.
 
-Here are some ideas to get you started:
+**[Let your coding agent find the cashback](https://crisnguyensb.github.io/notes-shopback-cli/)**
+— notes on `@shopback/cli`, a command-line tool built so that Claude Code,
+Codex and friends can look up cashback and open a tracked store link. It covers
+the device-code login, what `sb agent setup` writes into your agent's config,
+and the parts that are still rough.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repo: [notes-shopback-cli](https://github.com/crisnguyensb/notes-shopback-cli)
+· Package: [@shopback/cli](https://www.npmjs.com/package/@shopback/cli)
